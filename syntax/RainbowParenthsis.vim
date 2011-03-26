@@ -17,21 +17,21 @@
 " Also, if this script doesn't work on your terminal, you may need to add
 " guifg=xx or ever termfg=, though what good this script will do on a 
 " black and white terminal I don't know.
-hi level1c ctermfg=brown
-hi level2c ctermfg=Darkblue
-hi level3c ctermfg=darkgray
-hi level4c ctermfg=darkgreen
+hi level1c ctermfg=gray
+hi level2c ctermfg=brown
+hi level3c ctermfg=darkyellow
+hi level4c ctermfg=darkmagenta
 hi level5c ctermfg=darkcyan
-hi level6c ctermfg=darkred
-hi level7c ctermfg=darkmagenta
-hi level8c ctermfg=brown
-hi level9c ctermfg=gray
-hi level10c ctermfg=black
-hi level11c ctermfg=darkmagenta
-hi level12c ctermfg=Darkblue
-hi level13c ctermfg=darkgreen
-hi level14c ctermfg=darkcyan
-hi level15c ctermfg=darkred
+hi level6c ctermfg=darkblue
+hi level7c ctermfg=darkgreen
+hi level8c ctermfg=darkred
+hi level9c ctermfg=darkgray
+hi level10c ctermfg=white
+hi level11c ctermfg=yellow
+hi level12c ctermfg=magenta
+hi level13c ctermfg=cyan
+hi level14c ctermfg=blue
+hi level15c ctermfg=green
 hi level16c ctermfg=red
 
 
